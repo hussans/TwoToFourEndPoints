@@ -12,8 +12,7 @@ namespace TwoToFourEndPoints.services
 
             if (num1 > num2)
             {
-                return 
-                $"{num1} is greater than {num2}, {num2} is less than {num1}";;
+                return $"{num1} is greater than {num2}, {num2} is less than {num1}";;
             }
                 else if (num1 < num2)
             {
