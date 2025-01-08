@@ -1,0 +1,6 @@
+@TwoToFourEndPoints_HostAddress = http://localhost:5283
+
+GET {{TwoToFourEndPoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
